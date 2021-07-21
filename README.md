@@ -1,6 +1,6 @@
 # Hey there! I'm Ryan 👋
 
-I'm a developer based on a hobby, i've been in programming for more than 5 years now and i'm really enjoyed. Other than that i like gaming, cooking and listening to music
+I'm a developer based on a hobby, i've been in programming for more than 5 years now and i'm really enjoyed it. Other than that i like gaming, cooking and listening to music
 currently, i'm learning python on how to make an artificial intelligence which is hard to learn and i'm looking forward for it 😄
 
 ## Biography
@@ -13,4 +13,4 @@ currently, i'm learning python on how to make an artificial intelligence which i
 ## Links
 - **[Discord](https://discord.gg/k6MEUfp)**
 
-[![ryanshds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanshds&theme=tokyonight&show_icons=true)](https://github.com/ryanshds/github-readme-stats)
+[![ryanshds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanshds&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/ryanshds/github-readme-stats)
