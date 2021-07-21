@@ -13,4 +13,4 @@ currently, i'm learning python on how to make an artificial intelligence which i
 ## Links
 - **[Discord](https://discord.gg/k6MEUfp)**
 
-[![ryanshds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanshds)](https://github.com/ryanshds/github-readme-stats)
+[![ryanshds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanshds&theme=tokyonight&show_icons=true)](https://github.com/ryanshds/github-readme-stats)
