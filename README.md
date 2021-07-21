@@ -1,7 +1,7 @@
 # Hey there! I'm Ryan 👋
 
-I'm a developer based on a hobby, i've been in programming for more than 5 years now and i'm really enjoyed it. Other than that i like gaming, cooking and listening to music
-currently, i'm learning python on how to make an artificial intelligence which is hard to learn and i'm looking forward for it 😄
+I'm a developer based on a hobby, i've been in programming for more than 5 years now and i'm really enjoyed it. Other than that i like gaming, cooking and listening to music.
+Currently, i'm learning python on how to make an artificial intelligence which is hard to learn and i'm looking forward for it 😄
 
 ## Biography
 - I'm 29 years old, but still having young appearance which people mistook me for being 15.
